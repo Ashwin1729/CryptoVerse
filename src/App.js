@@ -47,8 +47,8 @@ const App = () => {
             Cryptoverse <br />
             All rights reserved
           </Typography.Title>
-          <Space>
-            <Link to="./Homepage">Home</Link>
+          <Space size="large">
+            <Link to="./">Home</Link>
             <Link to="./exchanges">Exchanges</Link>
             <Link to="./news">News</Link>
           </Space>
