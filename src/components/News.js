@@ -21,8 +21,6 @@ const News = (props) => {
 
   if (!cryptoNews?.value) return "Loading...";
 
-  console.log(cryptoNews);
-
   return (
     <Row gutter={[24, 24]}>
       {!props.simplified && (
