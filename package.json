@@ -1,5 +1,6 @@
 {
   "name": "crypto-verse",
+  "homepage": "https://ashwin1729.github.io/CryptoVerse/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
