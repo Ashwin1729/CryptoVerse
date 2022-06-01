@@ -13,4 +13,4 @@ Technologies Used
 => Millify is used to simplify and format the statistical data.
 => Chart.js is used to display the chart/graph corresponding to each cryptocurrency.
 => An API platform Rapid Api is used for different API (Coinranking API and Bing News Search API) for fetching diferent data.
-=> Redux toolkit is used for configuration of API and application wide state management.
+=> Redux toolkit is used for configuration of API and application wide state management..
