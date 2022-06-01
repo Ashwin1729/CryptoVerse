@@ -24,14 +24,3 @@ export const cryptoNewsApi = createApi({
 });
 
 export const { useGetCryptoNewsQuery } = cryptoNewsApi;
-
-// const options = {
-//     method: 'GET',
-//     url: 'https://bing-news-search1.p.rapidapi.com/news',
-//     params: {safeSearch: 'Off', textFormat: 'Raw'},
-//     headers: {
-//       'X-BingApis-SDK': 'true',
-//       'X-RapidAPI-Host': 'bing-news-search1.p.rapidapi.com',
-//       'X-RapidAPI-Key': 'a0482efaddmsh96008daf6627c99p1bfb1bjsn897fc89565d1'
-//     }
-//   };
